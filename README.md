@@ -1,4 +1,4 @@
-**Hey folks,**
+**Hey folks 👋**<br>
 ***This is an initiative to introduce python from beginners level to advance level.
 We will be start 8 weeks of coding from 8th September 2020.
 You can find list of all the topics on [CodeMistic's website](https://codemistic.in/python.html).***
