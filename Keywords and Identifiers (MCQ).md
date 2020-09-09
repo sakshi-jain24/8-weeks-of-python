@@ -1,18 +1,22 @@
+### Python Tutorial 
+#### Topic : Keywords and Identifiers (https://codemistic.in/python/keyword-and-identifiers-python.html)
+<br>
+
 **1. Which of the following is not valid variable name in Python?**
 - A. 11var
 - B. var_name
 - C. _var
 - D. (var)
 
-Answer 1 :- 
+**Answer 1 :-** 
 
-**2. How many keywords are there in python 3.7?**
+**2. How many keywords are there in python 3.8?**
 - A. 32
 - B. 35
 - C. 31
 - D. 33
 
-Answer 2 :- 
+**Answer 2 :-**
 
 **3. What is the maximum length of an identifier in python?**
 - A. 128
@@ -20,7 +24,7 @@ Answer 2 :-
 - C. 64
 - D. None of the above
 
-Answer 3 :- 
+**Answer 3 :-** 
 
 **4. Which one of the following will give an error in python?**
 - A. x=’Hello’
@@ -28,7 +32,7 @@ Answer 3 :-
 - C. Var1=”@gmail”
 - D. None of the above
 
-Answer 4 :- 
+**Answer 4 :-** 
 
 **5. Which of the following statement is False?**
 - A. Variable names can be arbitrarily long.
@@ -36,6 +40,6 @@ Answer 4 :-
 - C. Variable name can begin with number.
 - D. Variable name can begin with an underscore.
 
-Answer 5 :- 
+**Answer 5 :-** 
 
 
