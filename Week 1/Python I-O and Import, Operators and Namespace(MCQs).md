@@ -1,6 +1,6 @@
 ### Python Tutorial 
 #### Topic 1 : Python I/O and import(https://codemistic.in/python/input-output-import-python.html)
-### Topic 2 : Python Operators (https://codemistic.in/python/operators-python.html)
+#### Topic 2 : Python Operators (https://codemistic.in/python/operators-python.html)
 #### Topic 3 : Python Namespace(https://codemistic.in/python/namespace-python.html)
 
 
