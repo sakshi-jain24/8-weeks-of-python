@@ -5,7 +5,7 @@
 
 <br>
 
-*1. Which of the following are used to convert the string into the list?*
+*1. Which of the following is used to convert the string into the list?*
 - A. scanner()
 - B. lambda()
 - C. convertor()
