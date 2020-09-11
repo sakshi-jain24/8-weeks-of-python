@@ -11,7 +11,7 @@
 - C. convertor()
 - D. split()
 
-*Answer :-*
+*Answer :-d*
 
 *2. Which of the following is not the data type in python?*
 - A. tuple
@@ -19,7 +19,7 @@
 - C. set
 - D. list
 
-*Answer :-*
+*Answer :-b*
 
 *3. Which of the following is the example of the type conversion?*
 - A. str(2)
@@ -27,7 +27,7 @@
 - C. str(list)
 - D. All of the above
 
-*Answer :-*
+*Answer :-d*
 
 *4. Which of the following can convert the string to float number?*
 - A.str(float,x)
@@ -35,7 +35,7 @@
 - C. int(float(str))
 - D. float(str)
 
-*Answer :-*
+*Answer :-d*
 
 *5. If we change one data type to another, then it is called?*
 - A. Type Conversion
@@ -43,6 +43,6 @@
 - C. Both of the Above
 - D. None of the Above
 
-*Answer :-*
+*Answer :-c*
 
 
