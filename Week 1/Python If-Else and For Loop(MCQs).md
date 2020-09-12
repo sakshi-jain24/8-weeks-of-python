@@ -22,7 +22,9 @@ Q1.What will the following code print out?
     All done
 - d)Small
     All done
+Answers:- d)Small
 
+    All done*
 
 
 Q2.What will the following code will print out?
@@ -34,7 +36,7 @@ Q2.What will the following code will print out?
 - b) -2   1   4
 - c) -2  -1   0
 - d) -2   1   5
-
+Answers:-  b) -2   1   4*
 Q3.What is the value of x after the following nested for loop completes its execution? 
 
     x=0
@@ -47,18 +49,18 @@ Q3.What is the value of x after the following nested for loop completes its exec
 - b) 90
 - c) 99
 - d) 9
-
+Answers:- b) 90*
 Q4. Which of the following is a valid for loop in Python?
 
 - a) for(i=0; i < n; i++)
 - b) for i in range(0,5):
 - c) for i in range(0,5)
 - d) for i in range(5)
-
+Answers:-  b) for i in range(0,5)*
 Q5.When does the else statement written after loop executes?
 
 - a) When break statement is executed in the loop
 - b) When loop condition becomes false
 - c) Else statement is always executed
 - d) None of the above  
-
+Answers:- b) When loop condition becomes false*
