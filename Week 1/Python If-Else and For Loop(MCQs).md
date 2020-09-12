@@ -16,9 +16,9 @@ Q1.What will the following code print out?
 - a)Small
 - b)Medium                                                                                                               
     All done 
-- c)Small 
-    Medium
-    LARGE
+- c)Small <br> 
+    Medium<br>
+    LARGE<br>
     All done
 - d)Small
     All done
