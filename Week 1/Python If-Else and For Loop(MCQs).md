@@ -27,10 +27,8 @@ Q1.What will the following code print out?
 
 Q2.What will the following code will print out?
 
-     [
           for num in range(-2,5,3)
           print(num)
-     ] 
      
 - a) -2  -3  -5
 - b) -2   1   4
@@ -39,13 +37,11 @@ Q2.What will the following code will print out?
 
 Q3.What is the value of x after the following nested for loop completes its execution? 
 
-     [
         x=0
         for i in range(10):
             for j in range(-1,-10,-1):
                 x+=1    
         print(x)
-     ]
      
 - a) 100
 - b) 90
